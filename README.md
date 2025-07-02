@@ -23,7 +23,7 @@ Make a screen recording showing:
 - Speed control
 - Code walkthrough
 
----
+Live Demo -  https://sm6718858.github.io/SolarPlanet/
 
 ### 👨‍💻 Developer
 Shivam Mishra
